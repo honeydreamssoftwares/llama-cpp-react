@@ -1,6 +1,7 @@
 # LLAMA.cpp Selfhosting Demo
 
-This project, "llama-cpp-react", demonstrates a self-hosting setup for the LLAMA.cpp using React. It uses Vite as the build tool and TypeScript for type safety.
+This project, "llama-cpp-react", demonstrates a self-hosting setup for the LLAMA.cpp using React. It uses Vite as the build tool and TypeScript for type safety.This is the frontend and requires a AI backend to work 
+You can find step by step details to setup backend using llama.cpp [here](https://blog.defaultcoder.com/hosting-ai-model-mistral-7b-on-linux-without-gpu-and-query-from-react-component)
 
 ## Getting Started
 
@@ -17,7 +18,7 @@ Before you begin, ensure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git [clone https://yourrepository.com/llama-cpp-react.git](https://github.com/honeydreamssoftwares/llama-cpp-react)
+git clone https://github.com/honeydreamssoftwares/llama-cpp-react
 cd llama-cpp-react
 ```
 
