@@ -26,7 +26,7 @@ const StreamedContentComponent: React.FC<StreamedContentComponentProps> = ({ onP
             stream: true,
         };
         const config = {
-            api_url: 'https://ai.askzombi.com'
+            api_url: 'http://localhost:8080'
         };
 
         try {
